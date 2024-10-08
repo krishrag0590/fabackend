@@ -13,4 +13,4 @@ customRoute(app);
 //     console.log(`Server is listening PORT : ${PORT}`);
 // });
 
-app.listen();
+app.listen(process.env.PORT);
