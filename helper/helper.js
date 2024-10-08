@@ -43,5 +43,5 @@ module.exports = {
     "dbURI": "mongodb+srv://admin1:admin1@fashion-avenue.v5ksg.mongodb.net/?retryWrites=true&w=majority&appName=fashion-avenue",
     "baseURL": "http://localhost:3000/",
     "sendEmail": sendEmail,
-    "baseUrlAPI": "http://localhost:5005/"
+    "baseUrlAPI": "https://fabackend.onrender.com/"
 }
